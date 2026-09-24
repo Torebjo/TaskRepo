@@ -1,3 +1,0 @@
-test test test 
-test fra github
-this is branch 3
